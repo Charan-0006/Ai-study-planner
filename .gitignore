@@ -1,0 +1,6 @@
+Api key.txt
+.env
+__pycache__/
+*.pyc
+ai_study_plan.pdf
+study_plan_history.json
